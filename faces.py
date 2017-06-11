@@ -1,3 +1,6 @@
+'''This project was mediated through Michael Guerzhoy and is not 
+to be copy and used for educational purposes which can lead to Academic Integrity'''
+
 # Importing Modules
 from pylab import *
 from _collections import defaultdict

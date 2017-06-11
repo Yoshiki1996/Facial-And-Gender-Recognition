@@ -1,8 +1,5 @@
 **Machine Learning: Facial-And-Gender-Recognition**
 
-This project was mediated through Michael Guerzhoy and is not to be 
-copy and used for educational purposes which can lead to Academic Integrity.
-
 This project is used to recognize faces and genders from a subset of the FaceScrub dataset.  
 The dataset consists of URLs of images with faces, as well as the bounding boxes of the faces.
 
